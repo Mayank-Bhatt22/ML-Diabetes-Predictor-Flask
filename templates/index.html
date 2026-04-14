@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DiabetIQ — Diabetes Risk Predictor</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='style.css') }}"
+    />
+  </head>
+
+  <body>
+    <div class="bg-orb orb-1"></div>
+    <div class="bg-orb orb-2"></div>
+    <div class="bg-orb orb-3"></div>
+
+    <div class="page-wrapper">
+      <header class="site-header">
+        <div class="logo">
+          <span class="logo-icon">🩺</span>
+          <span class="logo-text">Diabet<em>IQ</em></span>
+        </div>
+        <p class="tagline">AI-powered diabetes risk assessment</p>
+      </header>
+
+      <section class="hero">
+        <h1 class="hero-title">
+          Know Your<br /><span class="accent">Diabetes Risk</span>
+        </h1>
+        <p class="hero-sub">
+          Our model analyzes 8 key health indicators from your profile to
+          predict diabetes risk using categorical clinical levels.
+        </p>
+      </section>
+
+      <main class="card">
+        <div class="card-label">Health Assessment Form</div>
+
+        <form action="/predict" method="post" class="form">
+          <div class="form-group">
+            <label for="Pregnancies">
+              <span class="label-icon">🤱</span> Pregnancies
+            </label>
+            <input
+              type="number"
+              step="any"
+              id="Pregnancies"
+              name="Pregnancies"
+              placeholder="e.g. 2"
+              required
+            />
+            <div class="input-bar"></div>
+          </div>
+
+          <div class="form-group">
+            <label for="Age"> <span class="label-icon">🎂</span> Age </label>
+            <input
+              type="number"
+              step="any"
+              id="Age"
+              name="Age"
+              placeholder="e.g. 35"
+              required
+            />
+            <div class="input-bar"></div>
+          </div>
+
+          <div class="form-group">
+            <label for="Glucose_Level">
+              <span class="label-icon">🩸</span> Glucose Level
+            </label>
+            <select id="Glucose_Level" name="Glucose_Level" required>
+              <option value="" disabled selected>Select Level</option>
+              <option value="Low (Dangerous)">Low (Dangerous)</option>
+              <option value="Normal (Healthy)">Normal (Healthy)</option>
+              <option value="Pre-diabetes (Risk zone)">
+                Pre-diabetes (Risk zone)
+              </option>
+              <option value="High (Diabetes)">High (Diabetes)</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="BP_Level">
+              <span class="label-icon">💓</span> Blood Pressure
+            </label>
+            <select id="BP_Level" name="BP_Level" required>
+              <option value="" disabled selected>Select Level</option>
+              <option value="Low">Low</option>
+              <option value="Normal">Normal</option>
+              <option value="High">High</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="Skin_Level">
+              <span class="label-icon">📐</span> Skin Thickness
+            </label>
+            <select id="Skin_Level" name="Skin_Level" required>
+              <option value="" disabled selected>Select Level</option>
+              <option value="Low">Low</option>
+              <option value="Normal">Normal</option>
+              <option value="High">High</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="BMI_Category">
+              <span class="label-icon">⚖️</span> BMI Category
+            </label>
+            <select id="BMI_Category" name="BMI_Category" required>
+              <option value="" disabled selected>Select Category</option>
+              <option value="Underweight">Underweight</option>
+              <option value="Normal">Normal</option>
+              <option value="Overweight">Overweight</option>
+              <option value="Obese">Obese</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="Genetic_Risk">
+              <span class="label-icon">🧬</span> Genetic Risk
+            </label>
+            <select id="Genetic_Risk" name="Genetic_Risk" required>
+              <option value="" disabled selected>Select Risk</option>
+              <option value="Low">Low</option>
+              <option value="Medium">Medium</option>
+              <option value="High">High</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="Age_Group">
+              <span class="label-icon">👥</span> Age Group
+            </label>
+            <select id="Age_Group" name="Age_Group" required>
+              <option value="" disabled selected>Select Group</option>
+              <option value="Young">Young (21-30)</option>
+              <option value="Adult">Adult (31-45)</option>
+              <option value="Middle_Age">Middle Age (46-60)</option>
+              <option value="Senior">Senior (60+)</option>
+            </select>
+          </div>
+
+          <div class="form-submit full-width">
+            <button type="submit" class="btn-predict">
+              <span class="btn-text">Analyze Risk</span>
+              <span class="btn-icon">→</span>
+            </button>
+          </div>
+        </form>
+
+        {% if show_result %}
+        <div class="result-section {{ result_class }}">
+          <div class="result-header">
+            <div class="result-badge {{ result_class }}">
+              {{ prediction_text }}
+            </div>
+          </div>
+
+          <p class="result-message">{{ result_msg }}</p>
+
+          <div class="tags-label">Your Health Indicators</div>
+          <div class="tags">
+            {% for tag in tags %}
+            <span class="tag">{{ tag }}</span>
+            {% endfor %}
+          </div>
+
+          <p class="disclaimer">
+            ⚠️ This is a predictive ML tool, not a medical diagnosis.
+          </p>
+        </div>
+        {% elif prediction_text %}
+        <div class="error-section">
+          <p class="error-message">{{ prediction_text }}</p>
+        </div>
+        {% endif %}
+      </main>
+
+      <footer class="site-footer">
+        <p>Built with Random Forest · Scikit-learn · Flask</p>
+      </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  </body>
+</html>

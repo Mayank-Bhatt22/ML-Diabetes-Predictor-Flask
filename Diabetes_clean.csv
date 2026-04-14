@@ -1,0 +1,769 @@
+Pregnancies,Age,Outcome,Glucose_Level,BP_Level,Skin_Level,BMI_Category,Genetic_Risk,Age_Group
+1.9459101490553132,50,1,High (Diabetes),Normal,Normal,Obese,Medium,Middle_Age
+0.6931471805599453,31,0,Normal (Healthy),Normal,Normal,Overweight,Medium,Adult
+2.1972245773362196,32,1,High (Diabetes),Normal,Normal,Normal,Medium,Adult
+0.6931471805599453,21,0,Normal (Healthy),Normal,Low,Overweight,Low,Young
+0.0,33,1,High (Diabetes),Normal,Normal,Obese,High,Adult
+1.791759469228055,30,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Young
+1.3862943611198906,26,1,Normal (Healthy),Low,Normal,Obese,Low,Young
+2.3978952727983707,29,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.0986122886681098,53,1,High (Diabetes),Normal,High,Obese,Low,Middle_Age
+2.1972245773362196,54,1,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Middle_Age
+1.6094379124341003,30,0,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Young
+2.3978952727983707,34,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+2.3978952727983707,57,0,High (Diabetes),Normal,Normal,Overweight,High,Middle_Age
+0.6931471805599453,59,1,High (Diabetes),Normal,Low,Obese,Medium,Middle_Age
+1.791759469228055,51,1,High (Diabetes),Normal,Low,Overweight,Medium,Middle_Age
+2.0794415416798357,32,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Medium,Adult
+0.0,31,1,Pre-diabetes (Risk zone),High,High,Obese,Medium,Adult
+2.0794415416798357,31,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Adult
+0.6931471805599453,33,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Adult
+0.6931471805599453,32,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Adult
+1.3862943611198906,27,0,High (Diabetes),High,High,Obese,High,Young
+2.1972245773362196,50,0,Normal (Healthy),High,Normal,Obese,Medium,Middle_Age
+2.0794415416798357,41,1,High (Diabetes),High,Normal,Obese,Medium,Adult
+2.302585092994046,29,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Young
+2.4849066497880004,51,1,High (Diabetes),High,Normal,Obese,Low,Middle_Age
+2.3978952727983707,41,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+2.0794415416798357,43,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+0.6931471805599453,22,0,Normal (Healthy),Normal,Low,Normal,Medium,Young
+2.6390573296152584,57,0,High (Diabetes),High,Low,Normal,Low,Middle_Age
+1.791759469228055,38,0,Pre-diabetes (Risk zone),High,Normal,Obese,Medium,Adult
+1.791759469228055,60,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Middle_Age
+1.3862943611198906,28,1,High (Diabetes),Normal,High,Obese,High,Young
+1.3862943611198906,22,0,Normal (Healthy),Low,Low,Normal,Low,Young
+1.9459101490553132,28,0,Normal (Healthy),High,Normal,Normal,Low,Young
+2.3978952727983707,45,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Medium,Adult
+1.6094379124341003,33,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,High,Adult
+2.4849066497880004,35,0,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+2.302585092994046,46,1,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Middle_Age
+1.0986122886681098,27,1,Normal (Healthy),Normal,High,Obese,Medium,Young
+1.6094379124341003,56,1,Pre-diabetes (Risk zone),Normal,High,Obese,High,Middle_Age
+1.3862943611198906,26,0,High (Diabetes),Normal,Low,Obese,Low,Young
+2.0794415416798357,37,0,High (Diabetes),High,Normal,Obese,Medium,Adult
+2.0794415416798357,48,0,Pre-diabetes (Risk zone),High,Low,Normal,Low,Middle_Age
+2.302585092994046,54,1,High (Diabetes),Normal,Low,Obese,High,Middle_Age
+2.0794415416798357,40,0,High (Diabetes),Normal,Normal,Overweight,Low,Adult
+0.0,25,1,High (Diabetes),Normal,High,Obese,High,Young
+0.6931471805599453,29,0,High (Diabetes),Low,Normal,Overweight,Medium,Young
+1.0986122886681098,22,0,Normal (Healthy),Normal,Normal,Overweight,Medium,Young
+2.0794415416798357,31,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Adult
+2.0794415416798357,24,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,22,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Medium,Young
+0.6931471805599453,26,0,Pre-diabetes (Risk zone),Low,Low,Normal,Medium,Young
+1.791759469228055,30,0,Normal (Healthy),Normal,Low,Normal,Medium,Young
+2.1972245773362196,58,1,High (Diabetes),High,Normal,Obese,Medium,Middle_Age
+2.0794415416798357,42,0,High (Diabetes),Normal,High,Obese,High,Adult
+0.6931471805599453,21,0,Normal (Healthy),Low,Low,Normal,Low,Young
+2.0794415416798357,41,1,High (Diabetes),Normal,High,Obese,Low,Adult
+0.0,31,0,Pre-diabetes (Risk zone),High,High,Obese,High,Adult
+0.0,44,0,High (Diabetes),High,Normal,Obese,High,Adult
+0.0,22,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.0986122886681098,21,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+2.1972245773362196,39,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.791759469228055,36,0,Low (Dangerous),Normal,Normal,Normal,Medium,Adult
+1.0986122886681098,24,0,High (Diabetes),Low,Normal,Overweight,Medium,Young
+2.0794415416798357,42,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+1.791759469228055,32,0,Normal (Healthy),Normal,Normal,Overweight,Low,Adult
+0.0,38,1,Pre-diabetes (Risk zone),High,Normal,Obese,High,Adult
+1.0986122886681098,54,0,Pre-diabetes (Risk zone),High,Normal,Obese,High,Middle_Age
+0.6931471805599453,25,0,Normal (Healthy),Normal,Low,Normal,Medium,Young
+1.6094379124341003,27,0,High (Diabetes),High,Normal,Overweight,Low,Young
+1.0986122886681098,28,1,Pre-diabetes (Risk zone),Normal,Low,Obese,High,Young
+1.791759469228055,26,0,High (Diabetes),Normal,Normal,Overweight,Medium,Young
+2.6390573296152584,42,1,High (Diabetes),High,Normal,Obese,Medium,Adult
+1.6094379124341003,23,0,High (Diabetes),High,Low,Obese,Low,Young
+0.6931471805599453,22,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,22,0,Pre-diabetes (Risk zone),Low,Low,Normal,Low,Young
+2.0794415416798357,41,0,Low (Dangerous),Normal,Normal,Obese,Medium,Adult
+1.791759469228055,27,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+0.0,26,1,High (Diabetes),Normal,Normal,Obese,Low,Young
+1.0986122886681098,24,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Medium,Young
+1.3862943611198906,22,0,Pre-diabetes (Risk zone),Low,Low,Normal,Low,Young
+1.0986122886681098,22,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+2.0794415416798357,36,0,Normal (Healthy),Normal,Normal,Overweight,High,Adult
+0.0,22,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Young
+1.791759469228055,37,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.0986122886681098,27,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+2.6390573296152584,45,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Adult
+1.0986122886681098,26,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Medium,Young
+1.3862943611198906,43,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+0.6931471805599453,24,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+0.6931471805599453,21,0,Normal (Healthy),Low,Normal,Normal,Low,Young
+1.6094379124341003,34,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Medium,Adult
+2.0794415416798357,42,0,Normal (Healthy),Normal,High,Obese,Low,Adult
+1.6094379124341003,60,1,High (Diabetes),Normal,Normal,Normal,Low,Middle_Age
+1.0986122886681098,21,0,High (Diabetes),High,Low,Normal,High,Young
+1.9459101490553132,40,0,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.0986122886681098,24,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+0.6931471805599453,22,0,Normal (Healthy),Low,Low,Normal,Medium,Young
+1.9459101490553132,23,0,Normal (Healthy),Low,Normal,Overweight,Medium,Young
+0.6931471805599453,31,1,Pre-diabetes (Risk zone),High,High,Obese,Medium,Adult
+0.6931471805599453,33,1,High (Diabetes),Normal,Normal,Obese,High,Adult
+0.6931471805599453,22,0,High (Diabetes),Normal,Normal,Overweight,Low,Young
+0.0,21,0,Pre-diabetes (Risk zone),High,Normal,Normal,Low,Young
+0.6931471805599453,24,0,Normal (Healthy),Normal,Low,Overweight,Low,Young
+1.0986122886681098,27,0,Normal (Healthy),Normal,Normal,Obese,High,Young
+0.6931471805599453,21,0,High (Diabetes),Low,Normal,Overweight,High,Young
+0.6931471805599453,27,0,Normal (Healthy),Normal,Normal,Normal,Low,Young
+1.6094379124341003,37,0,High (Diabetes),Low,Normal,Overweight,Low,Adult
+1.3862943611198906,25,0,Normal (Healthy),Low,Normal,Obese,Medium,Young
+0.0,24,1,Normal (Healthy),High,Low,Obese,Low,Young
+1.3862943611198906,24,1,High (Diabetes),Normal,Normal,Obese,Low,Young
+2.1972245773362196,46,1,High (Diabetes),Normal,Normal,Obese,Medium,Middle_Age
+0.6931471805599453,23,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+1.6094379124341003,25,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+2.0794415416798357,39,1,High (Diabetes),Low,Normal,Obese,Medium,Adult
+1.6094379124341003,61,1,High (Diabetes),High,Normal,Obese,Medium,Senior
+1.791759469228055,38,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+1.791759469228055,25,0,Normal (Healthy),Low,Normal,Obese,Medium,Young
+1.6094379124341003,22,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+1.6094379124341003,21,0,Normal (Healthy),Normal,Low,Normal,Low,Young
+0.0,25,1,High (Diabetes),Normal,High,Obese,High,Young
+1.9459101490553132,24,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.0986122886681098,23,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.791759469228055,69,0,High (Diabetes),Normal,Normal,Overweight,Low,Senior
+0.0,23,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+0.6931471805599453,26,1,Normal (Healthy),Normal,High,Obese,Medium,Young
+1.3862943611198906,30,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,23,0,Pre-diabetes (Risk zone),Low,High,Obese,Low,Young
+0.6931471805599453,40,1,Pre-diabetes (Risk zone),High,Low,Obese,Medium,Adult
+0.0,62,1,Pre-diabetes (Risk zone),High,Normal,Overweight,High,Senior
+1.6094379124341003,33,1,High (Diabetes),Normal,Low,Overweight,Medium,Adult
+2.302585092994046,33,1,Pre-diabetes (Risk zone),Low,Normal,Obese,High,Adult
+1.3862943611198906,30,1,High (Diabetes),Normal,High,Obese,Medium,Young
+2.1972245773362196,39,0,Normal (Healthy),Normal,Normal,Obese,Medium,Adult
+1.0986122886681098,26,0,Normal (Healthy),Normal,Low,Normal,Medium,Young
+1.0986122886681098,31,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Low,Adult
+0.0,21,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.0,22,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+0.0,29,0,High (Diabetes),Normal,Normal,Obese,High,Young
+1.791759469228055,28,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.3862943611198906,55,0,High (Diabetes),Normal,Normal,Normal,Low,Middle_Age
+1.791759469228055,38,0,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Adult
+1.0986122886681098,22,0,Pre-diabetes (Risk zone),Low,Normal,Obese,Medium,Young
+2.3978952727983707,42,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+1.6094379124341003,23,0,High (Diabetes),Normal,Normal,Obese,Low,Young
+0.0,21,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Medium,Young
+2.302585092994046,41,0,Low (Dangerous),Normal,High,Obese,Low,Adult
+1.0986122886681098,34,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Adult
+1.791759469228055,65,0,High (Diabetes),Normal,Normal,Obese,Low,Senior
+1.0986122886681098,22,0,Normal (Healthy),Normal,Low,Overweight,Low,Young
+0.6931471805599453,24,0,High (Diabetes),Normal,High,Obese,Medium,Young
+1.6094379124341003,37,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Medium,Adult
+2.302585092994046,42,1,High (Diabetes),High,Normal,Obese,High,Adult
+0.6931471805599453,23,0,High (Diabetes),High,High,Obese,Medium,Young
+2.1972245773362196,43,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+2.0794415416798357,36,1,High (Diabetes),High,High,Obese,Medium,Adult
+1.0986122886681098,21,0,Normal (Healthy),Low,Low,Normal,Medium,Young
+0.6931471805599453,23,0,Pre-diabetes (Risk zone),Low,Low,Overweight,High,Young
+1.0986122886681098,22,0,Normal (Healthy),Normal,Low,Overweight,Low,Young
+1.3862943611198906,47,1,High (Diabetes),Normal,High,Obese,High,Middle_Age
+1.6094379124341003,36,0,High (Diabetes),High,High,Overweight,Low,Adult
+2.0794415416798357,45,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Adult
+0.0,27,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.0986122886681098,21,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Medium,Young
+0.0,32,1,High (Diabetes),High,Normal,Obese,High,Adult
+1.9459101490553132,41,1,Pre-diabetes (Risk zone),Normal,Low,Overweight,High,Adult
+1.3862943611198906,22,0,High (Diabetes),Normal,Low,Obese,Low,Young
+1.6094379124341003,34,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,High,Adult
+1.6094379124341003,29,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,29,0,Pre-diabetes (Risk zone),High,Low,Overweight,Medium,Young
+1.9459101490553132,36,1,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Adult
+1.9459101490553132,29,1,High (Diabetes),Normal,Low,Obese,Medium,Young
+1.0986122886681098,25,0,Normal (Healthy),Normal,Low,Overweight,High,Young
+0.6931471805599453,23,0,Normal (Healthy),Normal,High,Obese,Medium,Young
+1.0986122886681098,33,0,Normal (Healthy),Normal,Low,Overweight,Medium,Adult
+2.1972245773362196,36,1,High (Diabetes),Normal,High,Obese,High,Adult
+1.9459101490553132,42,0,Normal (Healthy),Normal,Normal,Obese,Medium,Adult
+0.0,26,1,High (Diabetes),Normal,High,Obese,Medium,Young
+1.791759469228055,47,0,High (Diabetes),Normal,Normal,Obese,Low,Middle_Age
+1.791759469228055,37,1,High (Diabetes),High,Normal,Obese,High,Adult
+1.9459101490553132,32,0,Normal (Healthy),Normal,Normal,Normal,Low,Adult
+0.0,23,0,Pre-diabetes (Risk zone),Normal,Low,Obese,High,Young
+0.6931471805599453,21,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+1.791759469228055,27,0,Normal (Healthy),Normal,Normal,Overweight,Low,Young
+1.6094379124341003,40,0,High (Diabetes),Normal,Normal,Overweight,Low,Adult
+2.0794415416798357,41,1,High (Diabetes),Normal,Normal,Obese,High,Adult
+2.1972245773362196,60,1,High (Diabetes),Normal,High,Obese,Medium,Middle_Age
+0.6931471805599453,33,1,High (Diabetes),High,High,Obese,High,Adult
+2.1972245773362196,31,1,Pre-diabetes (Risk zone),Normal,High,Overweight,Medium,Adult
+1.791759469228055,25,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,21,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Young
+2.302585092994046,40,0,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Adult
+2.0794415416798357,36,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+2.4849066497880004,40,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+2.1972245773362196,42,0,Normal (Healthy),Low,Low,Normal,Low,Adult
+1.791759469228055,29,1,High (Diabetes),High,High,Obese,Medium,Young
+0.6931471805599453,21,0,Pre-diabetes (Risk zone),Low,Normal,Normal,Low,Young
+1.3862943611198906,23,1,Pre-diabetes (Risk zone),Normal,Low,Normal,Medium,Young
+1.6094379124341003,26,1,Pre-diabetes (Risk zone),Normal,High,Obese,High,Young
+1.6094379124341003,29,1,High (Diabetes),Normal,Normal,Obese,Low,Young
+0.0,21,0,Pre-diabetes (Risk zone),Normal,Low,Obese,High,Young
+0.6931471805599453,28,0,High (Diabetes),High,Normal,Obese,Low,Young
+0.0,32,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,High,Adult
+1.0986122886681098,27,0,Normal (Healthy),Normal,Low,Normal,Low,Young
+1.9459101490553132,55,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Middle_Age
+1.791759469228055,27,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Medium,Young
+2.1972245773362196,57,1,High (Diabetes),Normal,Normal,Obese,Medium,Middle_Age
+1.791759469228055,52,1,High (Diabetes),High,Normal,Obese,Low,Middle_Age
+0.6931471805599453,21,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+2.0794415416798357,41,1,High (Diabetes),High,Normal,Obese,Medium,Adult
+1.0986122886681098,25,0,Normal (Healthy),Normal,Low,Overweight,Low,Young
+0.0,24,0,High (Diabetes),High,High,Obese,Medium,Young
+2.0794415416798357,60,0,High (Diabetes),High,Normal,Obese,Low,Middle_Age
+0.0,24,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+2.302585092994046,36,1,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Adult
+2.5649493574615367,38,1,High (Diabetes),Normal,High,Obese,High,Adult
+1.791759469228055,25,1,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Young
+1.9459101490553132,32,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Medium,Adult
+1.791759469228055,32,1,Normal (Healthy),Normal,Low,Overweight,High,Adult
+1.791759469228055,41,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+0.0,21,1,High (Diabetes),Normal,Normal,Obese,High,Young
+1.0986122886681098,66,1,High (Diabetes),High,Normal,Obese,High,Senior
+2.0794415416798357,37,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Adult
+2.0794415416798357,61,0,High (Diabetes),Normal,Normal,Overweight,Medium,Senior
+0.6931471805599453,26,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Medium,Young
+0.6931471805599453,22,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+0.0,26,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.3862943611198906,24,1,High (Diabetes),Low,High,Obese,Medium,Young
+1.6094379124341003,31,0,High (Diabetes),Normal,High,Obese,High,Adult
+0.0,24,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.6094379124341003,22,1,High (Diabetes),High,Normal,Obese,Medium,Young
+1.9459101490553132,46,1,High (Diabetes),Normal,High,Obese,Low,Middle_Age
+0.6931471805599453,22,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+1.6094379124341003,29,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,23,0,Normal (Healthy),Normal,Normal,Overweight,Low,Young
+1.6094379124341003,26,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+2.0794415416798357,51,1,High (Diabetes),High,Low,Obese,Medium,Middle_Age
+0.0,23,1,High (Diabetes),High,Normal,Obese,Medium,Young
+2.302585092994046,32,1,High (Diabetes),High,Low,Obese,High,Adult
+0.0,27,0,Pre-diabetes (Risk zone),Normal,Normal,Underweight,Medium,Young
+0.6931471805599453,21,0,Normal (Healthy),Normal,Low,Overweight,Low,Young
+1.6094379124341003,22,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,22,1,High (Diabetes),Low,Normal,Overweight,Medium,Young
+1.9459101490553132,33,1,Pre-diabetes (Risk zone),Low,Low,Overweight,High,Adult
+1.0986122886681098,29,0,High (Diabetes),Normal,Normal,Obese,Medium,Young
+2.302585092994046,49,1,High (Diabetes),High,Low,Overweight,High,Middle_Age
+2.3978952727983707,41,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+0.0,23,0,High (Diabetes),High,Normal,Obese,Medium,Young
+2.302585092994046,34,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+0.6931471805599453,23,0,Pre-diabetes (Risk zone),High,Low,Obese,Low,Young
+2.302585092994046,42,0,Pre-diabetes (Risk zone),Low,Normal,Obese,Medium,Adult
+1.0986122886681098,27,0,High (Diabetes),High,Normal,Overweight,Low,Young
+1.0986122886681098,24,0,Normal (Healthy),Normal,Low,Normal,Low,Young
+0.0,25,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+2.5649493574615367,44,1,Normal (Healthy),Normal,Low,Overweight,High,Adult
+0.6931471805599453,21,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,30,0,Pre-diabetes (Risk zone),Low,High,Obese,Medium,Young
+1.0986122886681098,25,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+0.6931471805599453,24,0,High (Diabetes),Low,Low,Overweight,Medium,Young
+2.4849066497880004,51,1,High (Diabetes),Normal,Normal,Obese,High,Middle_Age
+1.3862943611198906,34,0,High (Diabetes),Normal,Low,Obese,Low,Adult
+1.3862943611198906,27,1,High (Diabetes),Normal,Normal,Overweight,High,Young
+1.6094379124341003,24,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,63,0,High (Diabetes),Normal,Low,Obese,Low,Senior
+1.6094379124341003,35,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+1.791759469228055,43,0,Normal (Healthy),Normal,Low,Obese,High,Adult
+0.0,25,1,High (Diabetes),Normal,Normal,Obese,High,Young
+1.0986122886681098,24,0,High (Diabetes),Normal,High,Obese,High,Young
+0.0,21,0,Pre-diabetes (Risk zone),Low,Normal,Overweight,Low,Young
+1.0986122886681098,28,1,High (Diabetes),Normal,Normal,Overweight,Low,Young
+2.3978952727983707,38,1,Pre-diabetes (Risk zone),High,High,Obese,High,Adult
+1.0986122886681098,21,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Young
+1.3862943611198906,40,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Adult
+0.6931471805599453,21,0,Normal (Healthy),Normal,High,Obese,Medium,Young
+2.6390573296152584,52,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Middle_Age
+1.0986122886681098,25,0,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Young
+2.0794415416798357,29,1,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+0.0,23,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Medium,Young
+1.791759469228055,57,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,High,Middle_Age
+1.0986122886681098,22,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,High,Young
+0.0,28,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+2.3978952727983707,39,0,High (Diabetes),Normal,Normal,Obese,Low,Adult
+2.0794415416798357,37,0,High (Diabetes),High,Low,Obese,Low,Adult
+2.0794415416798357,47,1,High (Diabetes),High,Normal,Obese,Low,Middle_Age
+1.0986122886681098,52,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Middle_Age
+2.0794415416798357,51,0,High (Diabetes),Normal,Normal,Overweight,Medium,Middle_Age
+1.791759469228055,34,0,High (Diabetes),High,High,Obese,Medium,Adult
+0.6931471805599453,29,1,Pre-diabetes (Risk zone),High,High,Obese,High,Young
+1.6094379124341003,26,0,Normal (Healthy),Low,Low,Normal,Medium,Young
+1.791759469228055,33,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Adult
+0.0,21,0,Normal (Healthy),High,Normal,Obese,Medium,Young
+0.0,25,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Young
+1.0986122886681098,31,1,High (Diabetes),Normal,High,Obese,High,Adult
+0.6931471805599453,24,1,High (Diabetes),Low,High,Obese,Medium,Young
+0.0,65,0,High (Diabetes),Low,Normal,Normal,Low,Senior
+1.9459101490553132,28,0,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.0986122886681098,29,1,High (Diabetes),Normal,High,Overweight,Medium,Young
+0.0,24,0,High (Diabetes),High,Normal,Obese,Medium,Young
+1.3862943611198906,46,1,Pre-diabetes (Risk zone),Normal,Low,Obese,Medium,Middle_Age
+2.1972245773362196,58,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,High,Middle_Age
+0.0,30,1,High (Diabetes),Normal,Normal,Obese,High,Young
+1.0986122886681098,25,1,High (Diabetes),Low,Normal,Obese,Medium,Young
+1.791759469228055,35,0,Normal (Healthy),High,High,Obese,Low,Adult
+1.791759469228055,28,1,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Young
+1.3862943611198906,37,0,High (Diabetes),Normal,Normal,Normal,Low,Adult
+1.0986122886681098,29,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+2.3978952727983707,47,1,High (Diabetes),Normal,Low,Overweight,Medium,Middle_Age
+0.0,21,0,High (Diabetes),Normal,Low,Normal,Low,Young
+0.0,25,1,High (Diabetes),Normal,Low,Obese,High,Young
+1.0986122886681098,30,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Young
+1.9459101490553132,41,0,Normal (Healthy),Normal,Normal,Overweight,Medium,Adult
+0.0,22,0,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Young
+1.0986122886681098,27,1,High (Diabetes),Normal,Low,Overweight,Medium,Young
+1.3862943611198906,25,0,Pre-diabetes (Risk zone),Low,Low,Overweight,Medium,Young
+2.0794415416798357,43,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Adult
+1.0986122886681098,26,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Medium,Young
+1.3862943611198906,30,0,Normal (Healthy),Normal,Low,Normal,Low,Young
+1.3862943611198906,29,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,28,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.9459101490553132,59,1,High (Diabetes),Normal,Normal,Normal,Low,Middle_Age
+1.6094379124341003,31,0,High (Diabetes),Normal,Low,Overweight,Medium,Adult
+1.3862943611198906,25,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+0.0,36,1,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Adult
+2.6390573296152584,43,1,High (Diabetes),High,Normal,Overweight,High,Adult
+1.0986122886681098,21,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+0.6931471805599453,24,0,High (Diabetes),Normal,Low,Overweight,Low,Young
+0.6931471805599453,30,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+2.3978952727983707,37,0,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.0986122886681098,23,1,Pre-diabetes (Risk zone),High,High,Obese,Low,Young
+1.9459101490553132,37,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+2.1972245773362196,46,0,Pre-diabetes (Risk zone),Normal,Low,Normal,High,Middle_Age
+1.0986122886681098,25,0,Normal (Healthy),Low,Low,Obese,Low,Young
+0.6931471805599453,41,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+2.5649493574615367,44,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Adult
+0.6931471805599453,22,0,Normal (Healthy),Normal,Low,Normal,Low,Young
+0.0,26,0,High (Diabetes),Normal,High,Obese,Low,Young
+0.0,44,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Adult
+1.791759469228055,44,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Adult
+2.302585092994046,33,1,High (Diabetes),Normal,Normal,Obese,High,Adult
+2.0794415416798357,41,1,High (Diabetes),High,Normal,Obese,Medium,Adult
+0.6931471805599453,22,0,High (Diabetes),Normal,Low,Overweight,Medium,Young
+0.6931471805599453,36,0,Normal (Healthy),Normal,Low,Overweight,Medium,Adult
+0.6931471805599453,22,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.791759469228055,33,0,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Adult
+2.1972245773362196,57,0,Normal (Healthy),Normal,Normal,Obese,Medium,Middle_Age
+2.1972245773362196,49,0,High (Diabetes),High,High,Obese,Medium,Middle_Age
+0.6931471805599453,22,0,High (Diabetes),Low,Low,Overweight,Medium,Young
+1.3862943611198906,23,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Young
+1.3862943611198906,26,0,Normal (Healthy),Normal,Low,Normal,Low,Young
+1.791759469228055,37,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Adult
+1.6094379124341003,29,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+1.6094379124341003,30,0,High (Diabetes),High,Normal,Obese,Low,Young
+1.3862943611198906,46,0,Low (Dangerous),High,Normal,Obese,Low,Middle_Age
+0.6931471805599453,24,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+1.3862943611198906,21,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+2.302585092994046,49,1,High (Diabetes),High,Normal,Obese,Medium,Middle_Age
+0.6931471805599453,28,1,Pre-diabetes (Risk zone),Low,High,Obese,High,Young
+2.6390573296152584,44,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+2.5649493574615367,48,0,Normal (Healthy),Normal,High,Obese,Medium,Middle_Age
+0.6931471805599453,29,1,High (Diabetes),Normal,High,Obese,High,Young
+1.791759469228055,29,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.791759469228055,63,0,High (Diabetes),Normal,Normal,Overweight,Low,Senior
+1.791759469228055,65,0,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Senior
+1.6094379124341003,67,1,High (Diabetes),Normal,Normal,Obese,Medium,Senior
+1.6094379124341003,30,0,High (Diabetes),Normal,Low,Obese,Medium,Young
+1.791759469228055,30,0,Normal (Healthy),Low,Normal,Obese,Medium,Young
+1.9459101490553132,29,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Medium,Young
+0.0,21,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Low,Young
+1.3862943611198906,22,0,Normal (Healthy),High,Low,Overweight,Medium,Young
+0.6931471805599453,45,1,High (Diabetes),High,Normal,Obese,Low,Adult
+1.3862943611198906,25,1,High (Diabetes),High,High,Obese,High,Young
+0.0,21,0,Pre-diabetes (Risk zone),Normal,Low,Obese,High,Young
+0.0,21,0,Normal (Healthy),Normal,Low,Obese,Medium,Young
+1.0986122886681098,25,0,Pre-diabetes (Risk zone),Low,High,Obese,Low,Young
+1.0986122886681098,28,0,Pre-diabetes (Risk zone),Low,High,Obese,High,Young
+2.5649493574615367,58,1,High (Diabetes),High,High,Obese,Medium,Middle_Age
+0.0,22,0,Normal (Healthy),High,Low,Overweight,Low,Young
+0.6931471805599453,22,0,Normal (Healthy),Normal,High,Obese,Medium,Young
+1.6094379124341003,32,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+0.0,35,0,Normal (Healthy),High,High,Obese,High,Adult
+0.6931471805599453,24,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Young
+0.0,22,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Low,Young
+0.6931471805599453,21,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,High,Young
+0.6931471805599453,25,0,Normal (Healthy),Normal,Low,Overweight,High,Young
+0.6931471805599453,25,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Low,Young
+0.6931471805599453,24,0,Pre-diabetes (Risk zone),Low,Low,Normal,Low,Young
+1.791759469228055,35,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Adult
+2.1972245773362196,45,1,Pre-diabetes (Risk zone),High,High,Obese,Low,Adult
+1.791759469228055,58,1,High (Diabetes),High,Normal,Obese,Medium,Middle_Age
+1.3862943611198906,28,0,Pre-diabetes (Risk zone),Normal,Low,Obese,High,Young
+0.6931471805599453,42,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Adult
+1.791759469228055,27,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,21,0,High (Diabetes),Normal,Low,Normal,Medium,Young
+1.6094379124341003,37,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Medium,Adult
+1.6094379124341003,31,1,High (Diabetes),Normal,Normal,Obese,High,Adult
+1.0986122886681098,25,0,High (Diabetes),Low,Low,Overweight,High,Young
+1.3862943611198906,39,0,Normal (Healthy),Low,Normal,Normal,High,Adult
+0.0,22,1,High (Diabetes),Normal,High,Obese,Low,Young
+1.3862943611198906,25,0,Normal (Healthy),Normal,Normal,Normal,Medium,Young
+1.3862943611198906,25,1,High (Diabetes),Normal,Normal,Obese,Low,Young
+1.6094379124341003,31,1,Normal (Healthy),Normal,Normal,Obese,Low,Adult
+1.9459101490553132,55,0,High (Diabetes),Normal,Normal,Normal,Low,Middle_Age
+1.791759469228055,35,1,High (Diabetes),High,High,Obese,Low,Adult
+2.302585092994046,38,0,Normal (Healthy),Normal,Low,Obese,Low,Adult
+1.791759469228055,41,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.0986122886681098,26,0,Pre-diabetes (Risk zone),Low,Normal,Obese,Medium,Young
+1.6094379124341003,46,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Medium,Middle_Age
+0.0,25,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Medium,Young
+2.1972245773362196,39,1,High (Diabetes),Normal,Normal,Overweight,High,Adult
+0.6931471805599453,28,1,High (Diabetes),Normal,High,Obese,High,Young
+1.9459101490553132,28,0,Pre-diabetes (Risk zone),High,High,Obese,Medium,Young
+0.6931471805599453,25,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,22,0,High (Diabetes),High,Low,Obese,High,Young
+0.6931471805599453,21,0,High (Diabetes),Normal,Low,Overweight,Low,Young
+0.0,21,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,22,1,High (Diabetes),High,Normal,Obese,Low,Young
+0.6931471805599453,22,0,Normal (Healthy),Normal,Low,Overweight,High,Young
+1.6094379124341003,37,1,High (Diabetes),High,Normal,Obese,Medium,Adult
+0.6931471805599453,27,0,Normal (Healthy),Normal,Normal,Underweight,Medium,Young
+1.3862943611198906,28,1,High (Diabetes),Normal,Normal,Overweight,Low,Young
+0.6931471805599453,26,0,Pre-diabetes (Risk zone),High,High,Obese,Medium,Young
+1.0986122886681098,21,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+0.0,21,0,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Young
+1.0986122886681098,21,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Medium,Young
+2.1972245773362196,36,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+1.6094379124341003,31,1,High (Diabetes),Normal,High,Obese,Low,Adult
+0.0,25,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+0.6931471805599453,38,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+0.0,26,0,High (Diabetes),High,High,Obese,Low,Young
+0.6931471805599453,43,1,Normal (Healthy),High,Low,Obese,Low,Adult
+1.0986122886681098,23,0,Normal (Healthy),Normal,Normal,Normal,Low,Young
+1.3862943611198906,38,0,Normal (Healthy),Normal,Low,Obese,Medium,Adult
+0.6931471805599453,22,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+1.0986122886681098,29,0,High (Diabetes),Normal,Normal,Overweight,Low,Young
+0.6931471805599453,36,0,Normal (Healthy),Normal,Low,Normal,High,Adult
+0.0,29,1,High (Diabetes),Normal,Normal,Obese,Low,Young
+2.5649493574615367,41,0,High (Diabetes),High,Normal,Obese,Low,Adult
+1.791759469228055,28,0,High (Diabetes),Normal,Normal,Overweight,Medium,Young
+0.6931471805599453,21,0,Normal (Healthy),Normal,Low,Underweight,Low,Young
+1.9459101490553132,31,0,Pre-diabetes (Risk zone),High,Normal,Obese,High,Adult
+0.0,41,1,High (Diabetes),High,Low,Obese,Medium,Adult
+1.0986122886681098,22,0,Normal (Healthy),Normal,Low,Obese,Medium,Young
+1.6094379124341003,24,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+2.1972245773362196,33,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Adult
+1.6094379124341003,30,1,Pre-diabetes (Risk zone),Normal,Low,Overweight,Medium,Young
+0.0,25,1,High (Diabetes),Normal,High,Obese,High,Young
+0.6931471805599453,28,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Medium,Young
+0.0,26,0,Normal (Healthy),Normal,High,Obese,Medium,Young
+0.0,22,1,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Young
+0.0,26,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Low,Young
+0.6931471805599453,23,0,Normal (Healthy),Normal,Low,Normal,Medium,Young
+1.0986122886681098,23,1,High (Diabetes),Normal,Normal,Overweight,Medium,Young
+0.0,25,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.0986122886681098,72,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,High,Senior
+1.0986122886681098,24,0,Pre-diabetes (Risk zone),Low,Normal,Obese,Medium,Young
+1.3862943611198906,38,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+0.6931471805599453,62,0,High (Diabetes),Low,Normal,Overweight,Medium,Senior
+1.791759469228055,24,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+2.3978952727983707,51,1,High (Diabetes),High,High,Obese,High,Middle_Age
+2.302585092994046,81,0,High (Diabetes),Normal,Normal,Overweight,Medium,Senior
+2.302585092994046,48,0,Pre-diabetes (Risk zone),Normal,Low,Normal,High,Middle_Age
+0.6931471805599453,26,0,Normal (Healthy),Normal,Normal,Normal,Medium,Young
+2.1972245773362196,39,0,Normal (Healthy),Normal,High,Obese,High,Adult
+1.791759469228055,37,0,Normal (Healthy),Normal,Normal,Overweight,Low,Adult
+2.3978952727983707,34,0,Pre-diabetes (Risk zone),High,Normal,Normal,High,Adult
+0.0,21,0,Pre-diabetes (Risk zone),Low,Low,Normal,Medium,Young
+0.0,22,0,Normal (Healthy),Low,Low,Overweight,Low,Young
+0.0,25,0,Normal (Healthy),Normal,High,Obese,Medium,Young
+2.1972245773362196,38,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Adult
+1.9459101490553132,27,0,High (Diabetes),Normal,High,Obese,Medium,Young
+0.6931471805599453,28,0,High (Diabetes),High,High,Obese,Medium,Young
+0.0,22,0,High (Diabetes),Normal,High,Obese,Low,Young
+0.0,22,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+2.0794415416798357,50,0,High (Diabetes),High,Normal,Overweight,Low,Middle_Age
+1.6094379124341003,24,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Young
+0.0,59,0,High (Diabetes),High,Normal,Overweight,Low,Middle_Age
+1.0986122886681098,29,1,Pre-diabetes (Risk zone),Normal,High,Obese,High,Young
+2.0794415416798357,31,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Medium,Adult
+2.1972245773362196,39,0,High (Diabetes),Normal,High,Overweight,Low,Adult
+1.6094379124341003,63,0,High (Diabetes),High,Normal,Overweight,Medium,Senior
+1.3862943611198906,35,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+0.0,29,0,Pre-diabetes (Risk zone),High,High,Obese,Low,Young
+1.6094379124341003,28,0,Normal (Healthy),Low,Low,Overweight,Medium,Young
+0.0,23,0,Normal (Healthy),High,Normal,Obese,Low,Young
+0.0,31,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+0.0,24,1,High (Diabetes),Normal,High,Obese,Medium,Young
+0.6931471805599453,21,0,High (Diabetes),Normal,High,Obese,Medium,Young
+0.0,58,0,High (Diabetes),Normal,Normal,Obese,High,Middle_Age
+1.6094379124341003,28,0,Normal (Healthy),Normal,Low,Overweight,Low,Young
+2.1972245773362196,67,0,High (Diabetes),Normal,Normal,Overweight,Medium,Senior
+1.0986122886681098,24,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.0986122886681098,42,0,Normal (Healthy),High,Normal,Obese,Low,Adult
+1.6094379124341003,33,0,Normal (Healthy),Normal,High,Obese,Low,Adult
+1.6094379124341003,45,1,Pre-diabetes (Risk zone),Normal,Low,Overweight,High,Adult
+1.3862943611198906,22,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+1.9459101490553132,66,0,High (Diabetes),Normal,Normal,Overweight,Medium,Senior
+1.791759469228055,30,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Young
+1.0986122886681098,25,0,Normal (Healthy),Normal,Low,Obese,Medium,Young
+2.0794415416798357,55,1,High (Diabetes),Normal,Normal,Overweight,Low,Middle_Age
+1.9459101490553132,39,0,High (Diabetes),Normal,Normal,Overweight,High,Adult
+1.0986122886681098,21,0,Pre-diabetes (Risk zone),High,Low,Overweight,Medium,Young
+1.3862943611198906,28,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+1.9459101490553132,41,1,Pre-diabetes (Risk zone),Normal,High,Obese,High,Adult
+2.0794415416798357,41,0,Normal (Healthy),Normal,Low,Obese,High,Adult
+1.3862943611198906,40,0,Normal (Healthy),Normal,High,Obese,Low,Adult
+2.3978952727983707,38,0,Normal (Healthy),High,Normal,Obese,Low,Adult
+0.0,35,1,High (Diabetes),High,Normal,Obese,Medium,Adult
+0.6931471805599453,21,0,High (Diabetes),Normal,Low,Overweight,Medium,Young
+1.0986122886681098,21,0,Normal (Healthy),Low,Low,Obese,High,Young
+2.1972245773362196,64,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Medium,Senior
+2.5649493574615367,46,1,Normal (Healthy),Normal,Normal,Overweight,Low,Middle_Age
+0.0,21,0,High (Diabetes),Normal,Low,Normal,Low,Young
+2.302585092994046,58,0,Normal (Healthy),Normal,Normal,Normal,Low,Middle_Age
+1.0986122886681098,22,0,Normal (Healthy),Normal,Normal,Overweight,Medium,Young
+1.3862943611198906,24,0,Normal (Healthy),Low,Low,Overweight,Low,Young
+1.3862943611198906,28,1,High (Diabetes),Normal,Low,Obese,Low,Young
+2.302585092994046,53,1,High (Diabetes),High,Normal,Obese,High,Middle_Age
+2.0794415416798357,51,0,Pre-diabetes (Risk zone),High,Normal,Obese,Medium,Middle_Age
+2.6390573296152584,41,0,Normal (Healthy),Normal,Normal,Obese,Low,Adult
+1.9459101490553132,60,0,High (Diabetes),High,Low,Normal,Medium,Middle_Age
+1.0986122886681098,25,0,Low (Dangerous),Normal,Normal,Normal,Low,Young
+1.3862943611198906,26,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.9459101490553132,26,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+2.302585092994046,45,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+1.3862943611198906,24,0,Pre-diabetes (Risk zone),Low,Normal,Obese,Low,Young
+1.3862943611198906,21,0,Normal (Healthy),Normal,Low,Normal,Medium,Young
+0.6931471805599453,21,0,Normal (Healthy),Normal,Low,Underweight,Low,Young
+1.3862943611198906,24,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+0.0,22,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.0,31,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Medium,Adult
+1.0986122886681098,22,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,High,Young
+0.0,24,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,29,0,Normal (Healthy),Normal,High,Obese,High,Young
+1.9459101490553132,31,0,Normal (Healthy),Normal,Normal,Overweight,Medium,Adult
+0.6931471805599453,24,0,Normal (Healthy),Low,Normal,Obese,High,Young
+1.6094379124341003,23,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+0.0,46,0,Pre-diabetes (Risk zone),High,Normal,Overweight,Low,Middle_Age
+0.0,67,0,Low (Dangerous),Normal,Normal,Normal,High,Senior
+0.0,23,0,High (Diabetes),Normal,High,Obese,High,Young
+1.3862943611198906,32,1,High (Diabetes),High,High,Obese,High,Adult
+2.1972245773362196,43,1,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Adult
+1.3862943611198906,27,1,High (Diabetes),Normal,Low,Obese,Medium,Young
+2.3978952727983707,56,1,Normal (Healthy),High,Normal,Obese,High,Middle_Age
+1.6094379124341003,25,0,Normal (Healthy),High,Low,Obese,Low,Young
+0.6931471805599453,29,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+2.1972245773362196,37,1,High (Diabetes),High,Normal,Obese,Medium,Adult
+1.791759469228055,53,1,High (Diabetes),Normal,Normal,Obese,High,Middle_Age
+1.6094379124341003,28,0,High (Diabetes),Normal,Low,Obese,Low,Young
+0.6931471805599453,50,0,High (Diabetes),High,High,Obese,Medium,Middle_Age
+1.6094379124341003,37,0,High (Diabetes),Normal,Normal,Overweight,Medium,Adult
+0.6931471805599453,21,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Young
+1.3862943611198906,25,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.9459101490553132,66,0,Pre-diabetes (Risk zone),High,Normal,Overweight,Low,Senior
+0.6931471805599453,23,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+0.6931471805599453,28,0,Normal (Healthy),Normal,Low,Obese,Medium,Young
+2.0794415416798357,37,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Adult
+0.6931471805599453,30,0,Normal (Healthy),Normal,High,Obese,Low,Young
+2.1972245773362196,58,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Middle_Age
+2.4849066497880004,42,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Adult
+2.4849066497880004,35,0,Normal (Healthy),Normal,Normal,Obese,Low,Adult
+1.9459101490553132,54,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Middle_Age
+0.0,28,1,High (Diabetes),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,24,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.9459101490553132,32,0,Normal (Healthy),Normal,Low,Overweight,Medium,Adult
+0.0,27,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.0986122886681098,22,0,Normal (Healthy),Low,Low,Overweight,High,Young
+0.6931471805599453,21,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.9459101490553132,46,0,Normal (Healthy),Normal,Normal,Obese,Low,Middle_Age
+1.6094379124341003,37,0,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+0.0,33,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+1.3862943611198906,39,0,Normal (Healthy),Normal,Normal,Obese,Low,Adult
+1.0986122886681098,21,0,High (Diabetes),High,Normal,Normal,Low,Young
+1.3862943611198906,22,0,Pre-diabetes (Risk zone),Low,Normal,Overweight,Medium,Young
+1.0986122886681098,22,0,Normal (Healthy),Normal,Low,Obese,Low,Young
+0.6931471805599453,23,0,High (Diabetes),High,Normal,Obese,High,Young
+0.6931471805599453,25,0,Pre-diabetes (Risk zone),Low,High,Obese,Low,Young
+1.9459101490553132,35,0,Pre-diabetes (Risk zone),Low,Low,Normal,High,Adult
+1.0986122886681098,21,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+2.3978952727983707,36,0,High (Diabetes),Normal,Normal,Overweight,Low,Adult
+1.0986122886681098,62,1,High (Diabetes),Normal,High,Obese,Medium,Senior
+0.0,21,1,High (Diabetes),High,High,Obese,Medium,Young
+1.9459101490553132,27,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Young
+2.5649493574615367,62,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Senior
+2.1972245773362196,42,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+2.1972245773362196,52,1,Pre-diabetes (Risk zone),Normal,Low,Overweight,Medium,Middle_Age
+0.6931471805599453,22,0,Normal (Healthy),Low,Low,Normal,Medium,Young
+2.1972245773362196,41,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.9459101490553132,29,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Young
+1.3862943611198906,52,1,High (Diabetes),High,Normal,Obese,High,Middle_Age
+0.0,25,0,Normal (Healthy),Normal,Normal,Normal,Medium,Young
+2.4849066497880004,45,1,Pre-diabetes (Risk zone),High,High,Obese,High,Adult
+1.0986122886681098,24,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.3862943611198906,44,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+1.0986122886681098,25,0,Normal (Healthy),Low,Low,Overweight,High,Young
+1.9459101490553132,34,0,Pre-diabetes (Risk zone),Normal,High,Obese,High,Adult
+0.0,22,1,High (Diabetes),High,Low,Obese,Medium,Young
+0.0,46,0,Low (Dangerous),Normal,Normal,Obese,Low,Middle_Age
+0.6931471805599453,21,0,Normal (Healthy),Normal,Low,Overweight,Medium,Young
+0.6931471805599453,38,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+0.6931471805599453,26,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Medium,Young
+0.6931471805599453,24,0,Pre-diabetes (Risk zone),High,Low,Overweight,Medium,Young
+1.9459101490553132,28,0,Normal (Healthy),Normal,Normal,Normal,Low,Young
+0.6931471805599453,30,0,Pre-diabetes (Risk zone),Normal,High,Overweight,Low,Young
+2.0794415416798357,54,1,High (Diabetes),Normal,Normal,Obese,Medium,Middle_Age
+1.6094379124341003,36,1,High (Diabetes),Normal,Normal,Overweight,Low,Adult
+0.6931471805599453,21,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.6931471805599453,22,1,High (Diabetes),Normal,High,Obese,High,Young
+0.6931471805599453,25,0,Normal (Healthy),Normal,Low,Normal,Medium,Young
+0.0,27,0,High (Diabetes),High,High,Obese,Low,Young
+0.6931471805599453,23,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Low,Young
+1.3862943611198906,24,0,Pre-diabetes (Risk zone),Low,Low,Obese,Low,Young
+1.3862943611198906,36,1,High (Diabetes),Low,Low,Obese,Medium,Adult
+2.0794415416798357,40,1,High (Diabetes),High,High,Obese,High,Adult
+1.9459101490553132,26,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Young
+2.4849066497880004,50,1,High (Diabetes),Normal,Normal,Obese,Medium,Middle_Age
+1.3862943611198906,27,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Young
+1.9459101490553132,30,0,Pre-diabetes (Risk zone),High,Normal,Overweight,Low,Young
+1.0986122886681098,23,0,Low (Dangerous),Normal,Low,Normal,Low,Young
+2.302585092994046,50,1,Pre-diabetes (Risk zone),High,Low,Overweight,High,Middle_Age
+0.0,24,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.0986122886681098,28,0,Pre-diabetes (Risk zone),High,High,Obese,Low,Young
+1.0986122886681098,28,0,Normal (Healthy),Normal,Low,Normal,High,Young
+1.9459101490553132,45,0,High (Diabetes),High,Normal,Obese,High,Adult
+0.0,21,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.0986122886681098,21,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.6094379124341003,29,0,Normal (Healthy),High,High,Obese,Medium,Young
+0.0,21,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Low,Young
+0.0,21,0,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.791759469228055,45,0,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.6094379124341003,21,0,Normal (Healthy),Normal,Low,Normal,Low,Young
+2.0794415416798357,34,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,High,Adult
+0.0,24,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.0986122886681098,23,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Medium,Young
+0.6931471805599453,22,0,High (Diabetes),High,Low,Overweight,Low,Young
+2.3978952727983707,31,0,Normal (Healthy),Normal,Normal,Overweight,Low,Adult
+2.6390573296152584,38,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Adult
+1.791759469228055,48,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Middle_Age
+1.0986122886681098,23,0,Normal (Healthy),Normal,Low,Obese,Medium,Young
+2.0794415416798357,32,1,Normal (Healthy),Normal,Normal,Obese,High,Adult
+0.6931471805599453,28,0,Pre-diabetes (Risk zone),Normal,Low,Normal,Low,Young
+0.0,27,0,Pre-diabetes (Risk zone),High,Low,Overweight,Medium,Young
+1.6094379124341003,24,0,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.9459101490553132,50,1,High (Diabetes),Normal,Normal,Overweight,Low,Middle_Age
+1.6094379124341003,31,0,Normal (Healthy),Normal,Normal,Overweight,Medium,Adult
+1.3862943611198906,27,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,High,Young
+1.0986122886681098,30,0,High (Diabetes),Normal,Normal,Obese,Low,Young
+0.6931471805599453,33,1,High (Diabetes),Normal,Low,Normal,Medium,Adult
+0.0,22,1,High (Diabetes),Low,High,Obese,Medium,Young
+2.4849066497880004,42,1,High (Diabetes),High,Normal,Overweight,Low,Adult
+0.0,23,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+0.6931471805599453,23,0,Normal (Healthy),Low,Low,Overweight,Low,Young
+0.6931471805599453,27,0,Pre-diabetes (Risk zone),Normal,Low,Obese,Medium,Young
+1.791759469228055,28,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.0986122886681098,27,0,Pre-diabetes (Risk zone),Low,Normal,Overweight,Medium,Young
+0.6931471805599453,22,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.0986122886681098,25,1,High (Diabetes),Low,Normal,Obese,Low,Young
+1.0986122886681098,22,0,Pre-diabetes (Risk zone),Low,Normal,Normal,Low,Young
+0.6931471805599453,41,0,Pre-diabetes (Risk zone),Normal,High,Obese,High,Adult
+2.4849066497880004,51,0,High (Diabetes),High,Normal,Obese,Low,Middle_Age
+1.3862943611198906,27,1,Normal (Healthy),High,Normal,Obese,High,Young
+2.3978952727983707,54,0,High (Diabetes),High,Normal,Overweight,Low,Middle_Age
+0.6931471805599453,22,1,High (Diabetes),Normal,High,Obese,High,Young
+2.1972245773362196,43,1,High (Diabetes),High,High,Obese,Low,Adult
+2.302585092994046,40,1,High (Diabetes),Normal,High,Obese,Medium,Adult
+1.9459101490553132,40,1,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Adult
+0.6931471805599453,24,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.6094379124341003,70,1,High (Diabetes),High,Low,Obese,Low,Senior
+2.3978952727983707,40,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Adult
+1.9459101490553132,43,0,Normal (Healthy),Low,Normal,Obese,Medium,Adult
+2.302585092994046,45,0,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.9459101490553132,49,0,High (Diabetes),Normal,Normal,Obese,Medium,Middle_Age
+0.6931471805599453,21,0,Normal (Healthy),Low,Low,Overweight,Medium,Young
+2.3978952727983707,47,0,Low (Dangerous),High,Low,Obese,Low,Middle_Age
+1.3862943611198906,22,0,Pre-diabetes (Risk zone),High,Normal,Obese,High,Young
+2.1972245773362196,68,0,Normal (Healthy),High,Normal,Obese,Medium,Senior
+1.9459101490553132,31,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+2.302585092994046,53,1,High (Diabetes),High,Normal,Normal,Low,Middle_Age
+0.0,25,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+1.3862943611198906,25,1,Pre-diabetes (Risk zone),Low,Normal,Obese,Low,Young
+1.0986122886681098,23,0,Pre-diabetes (Risk zone),Low,Low,Normal,Medium,Young
+1.0986122886681098,22,0,Low (Dangerous),Low,Normal,Normal,Medium,Young
+0.0,26,1,High (Diabetes),Normal,High,Obese,Medium,Young
+0.0,22,0,Normal (Healthy),Normal,High,Obese,Medium,Young
+1.6094379124341003,27,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.791759469228055,69,0,High (Diabetes),High,Normal,Obese,Medium,Senior
+1.0986122886681098,25,0,High (Diabetes),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,22,0,High (Diabetes),Normal,Normal,Normal,Medium,Young
+0.6931471805599453,29,0,Pre-diabetes (Risk zone),Low,Low,Overweight,Low,Young
+0.6931471805599453,23,0,High (Diabetes),Normal,Normal,Normal,High,Young
+0.6931471805599453,46,1,High (Diabetes),High,High,Obese,Medium,Middle_Age
+2.1972245773362196,34,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,High,Adult
+2.6390573296152584,44,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.0986122886681098,23,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Young
+2.0794415416798357,43,1,High (Diabetes),Normal,High,Obese,Medium,Adult
+1.0986122886681098,25,0,Normal (Healthy),Normal,Normal,Normal,Low,Young
+2.0794415416798357,43,1,High (Diabetes),High,Low,Obese,Low,Adult
+1.3862943611198906,31,1,High (Diabetes),Normal,Low,Overweight,Low,Adult
+0.0,22,0,Normal (Healthy),Normal,Normal,Normal,Low,Young
+1.6094379124341003,28,0,High (Diabetes),High,Low,Obese,Medium,Young
+1.6094379124341003,26,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,High,Young
+1.0986122886681098,26,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.9459101490553132,49,1,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Medium,Middle_Age
+0.6931471805599453,52,1,High (Diabetes),High,Normal,Obese,High,Middle_Age
+1.0986122886681098,41,0,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+1.6094379124341003,27,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+1.9459101490553132,28,0,Normal (Healthy),Normal,High,Obese,Low,Young
+2.3978952727983707,30,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.0986122886681098,22,0,High (Diabetes),Low,Low,Obese,Low,Young
+2.302585092994046,45,1,High (Diabetes),Normal,Normal,Obese,Low,Adult
+1.0986122886681098,23,1,Normal (Healthy),Normal,Normal,Obese,Medium,Young
+1.3862943611198906,24,0,High (Diabetes),Normal,Low,Obese,Low,Young
+1.791759469228055,40,0,High (Diabetes),Normal,Normal,Overweight,Medium,Adult
+2.3978952727983707,38,1,High (Diabetes),Normal,High,Obese,Medium,Adult
+0.0,21,0,High (Diabetes),Low,Low,Overweight,Medium,Young
+1.3862943611198906,32,0,Pre-diabetes (Risk zone),Normal,Normal,Overweight,Low,Adult
+2.0794415416798357,34,1,High (Diabetes),Low,Normal,Obese,High,Adult
+1.3862943611198906,31,1,High (Diabetes),Normal,High,Obese,High,Adult
+2.3978952727983707,56,0,Normal (Healthy),Normal,Low,Normal,Medium,Middle_Age
+0.6931471805599453,24,0,Pre-diabetes (Risk zone),Normal,High,Obese,Medium,Young
+1.791759469228055,52,1,Normal (Healthy),Normal,Normal,Obese,Medium,Middle_Age
+1.6094379124341003,34,0,Normal (Healthy),High,Low,Overweight,Medium,Adult
+0.6931471805599453,21,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+0.6931471805599453,42,1,High (Diabetes),Normal,Normal,Overweight,Medium,Adult
+1.791759469228055,42,0,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Adult
+0.6931471805599453,45,0,Pre-diabetes (Risk zone),High,Normal,Obese,Low,Adult
+1.6094379124341003,38,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Adult
+0.6931471805599453,25,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+0.0,22,0,High (Diabetes),High,Normal,Obese,Medium,Young
+1.0986122886681098,22,0,High (Diabetes),High,Normal,Normal,Medium,Young
+1.0986122886681098,22,0,Normal (Healthy),Low,Normal,Obese,Low,Young
+1.3862943611198906,34,1,High (Diabetes),Normal,Low,Overweight,Medium,Adult
+2.1972245773362196,22,1,Pre-diabetes (Risk zone),High,Normal,Overweight,Low,Young
+1.0986122886681098,24,1,High (Diabetes),High,High,Obese,Medium,Young
+1.0986122886681098,22,0,Pre-diabetes (Risk zone),Low,Normal,Overweight,Medium,Young
+1.0986122886681098,53,0,Pre-diabetes (Risk zone),Normal,Normal,Normal,Medium,Middle_Age
+1.6094379124341003,28,0,Normal (Healthy),Normal,Normal,Obese,Low,Young
+0.0,21,0,High (Diabetes),High,Normal,Overweight,Medium,Young
+2.1972245773362196,42,0,Low (Dangerous),Normal,Low,Obese,Medium,Adult
+1.0986122886681098,21,0,Normal (Healthy),Normal,Low,Obese,Medium,Young
+0.6931471805599453,42,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Adult
+2.4849066497880004,48,1,Pre-diabetes (Risk zone),Normal,High,Obese,High,Middle_Age
+1.3862943611198906,26,0,Pre-diabetes (Risk zone),Low,Low,Obese,Medium,Young
+0.6931471805599453,22,0,Pre-diabetes (Risk zone),Low,Low,Overweight,Low,Young
+2.302585092994046,45,1,High (Diabetes),High,Normal,Obese,High,Adult
+2.6390573296152584,39,0,High (Diabetes),High,High,Obese,High,Adult
+2.5649493574615367,46,0,Pre-diabetes (Risk zone),High,Normal,Overweight,Medium,Middle_Age
+0.6931471805599453,27,1,High (Diabetes),High,High,Obese,Medium,Young
+0.6931471805599453,32,0,Normal (Healthy),Normal,High,Obese,High,Adult
+1.3862943611198906,36,1,High (Diabetes),Normal,Low,Obese,Medium,Adult
+1.9459101490553132,50,1,High (Diabetes),Normal,Normal,Normal,Low,Middle_Age
+1.6094379124341003,22,1,High (Diabetes),Normal,Normal,Obese,High,Young
+0.6931471805599453,28,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Young
+1.3862943611198906,25,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+0.0,26,1,High (Diabetes),High,High,Obese,Low,Young
+2.1972245773362196,45,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+0.6931471805599453,37,1,High (Diabetes),High,High,Obese,High,Adult
+2.0794415416798357,39,0,High (Diabetes),High,High,Obese,Medium,Adult
+0.0,52,1,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Middle_Age
+0.6931471805599453,26,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Low,Young
+1.9459101490553132,66,1,High (Diabetes),High,Normal,Obese,Low,Senior
+1.0986122886681098,22,0,Normal (Healthy),Low,Normal,Overweight,High,Young
+2.302585092994046,43,1,High (Diabetes),Normal,Normal,Obese,Medium,Adult
+2.302585092994046,33,0,Normal (Healthy),Normal,Normal,Normal,Low,Adult
+2.3978952727983707,63,0,Pre-diabetes (Risk zone),Normal,High,Obese,Low,Senior
+1.0986122886681098,27,0,Pre-diabetes (Risk zone),Normal,Normal,Obese,Medium,Young
+1.791759469228055,30,0,Pre-diabetes (Risk zone),Normal,Low,Overweight,Low,Young
+0.6931471805599453,47,1,High (Diabetes),Normal,Normal,Obese,Medium,Middle_Age
+0.6931471805599453,23,0,Normal (Healthy),Normal,Normal,Obese,Medium,Young
