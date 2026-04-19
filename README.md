@@ -1,7 +1,7 @@
 # ML-Diabetes-Predictor-Flask
 An AI-powered diabetes risk prediction web app built using Flask and Machine Learning. It analyzes health parameters like glucose, BMI, blood pressure, and genetic risk to predict diabetes probability and provide insights. Designed to support early detection and better healthcare decisions.
 
-# 🩺 GlucoCheck-AI
+# 🩺 GlucoCheck-AI = https://ml-diabetes-predictor-flask.onrender.com
 
 An AI-powered web application that predicts diabetes risk using Machine Learning and Flask. This project helps in early detection by analyzing key health indicators and providing a risk percentage with insights.
 
